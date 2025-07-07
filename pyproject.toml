@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "JSProto"
-version = "0.4"
+version = "0.6"
 authors = [
   { name="yjk", email="mr.yjk@foxmail.com" },
 ]
